@@ -1,1 +1,5 @@
-Product Management 
+Product Management Module
+
+1. Add Product
+2. Update Product
+3. Delete Product
