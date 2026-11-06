@@ -1,1 +1,7 @@
-Order Management 
+Order Management Module
+
+1. Place Order
+2. Track Order
+3. Cancel Order
+
+Developed collaboratively by multiple developers.
