@@ -1,1 +1,5 @@
-Shopping Cart 
+Shopping Cart Module
+
+1. Add to Cart
+2. Remove from Cart
+3. View Cart
